@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+{{ $paginator := .Paginate (where .Pages ".Params.type" "!=" "page") (index .Site.Params "paginate" | default 10) }}
+{{ range $index, $page := $paginator.Pages }}
+<article class="post">
+  <header class="post-header">
+    <a class="post-link" href="{{ .Permalink }}"><h2 class="post-title">{{ .Title }}</h2></a>
+  </header>
+  <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
+  <footer class="post-footer">
+    <p class="post-meta">{{ .Date.Format "2006.1.2" }}</p>
+  </footer>
+</article>
+{{ end }}
+<footer class="list-footer">
+  Pages:
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">←</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}">→</a>
+    {{ end }}
+  </nav>
+</footer>
+{{ partial "footer.html" . }}
+

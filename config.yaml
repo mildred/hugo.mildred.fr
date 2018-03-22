@@ -1,0 +1,6 @@
+baseURL: http://hugo.mildred.fr
+disablePathToLower: true
+languageCode: fr-fr
+title: Mildred Blog
+publishDir: publish
+theme: custom
