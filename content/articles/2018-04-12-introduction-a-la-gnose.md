@@ -11,21 +11,21 @@ caractérise en premier lieu par une volonté de libération totale du monde dan
 lequel nous sommes incarnés. C'est une tradition multiple qui est formée de
 plusieurs écoles dont certaines sont chrétiennes et qui peuvent se rapprocher de
 l'hermétisme ou de l'alchimie par la recherche de la vérité. Pour cette modeste
-introduction, nous nous baserons sur l'évangile « Pistis Sophia » qui conte
+introduction, nous nous baserons sur l'évangile « Pistis Sophia » qui compte
 l'enseignement de Jésus après sa résurrection et son commentaire par le Rose
 Croix Jan Van Rijckenborgh.
 
-Cette conception est tirée des écrits de Valentin, ou des membres de son église,
+*Pistis Sophia* est un évangile de Valentin, ou des membres de son église,
 des coptes qui vécurent au IIème siècle.
 
 La conception gnostique du monde se différencie des visions à la fois catholique
 romaine, ésotérique ou matérialiste du monde. On différenciera dans la vision
 gnostique la sphère divine d'immortalité d'une part, où réside dieu (ou le
-principe divin) et d'autre part la sphère de mortalité où réside les hiérarchies
-spirituelles des grandes religions et les formes-pensées ou égrégores. Cette
-sphère de mortalité peut elle aussi se décomposer en un monde matériel de forte
-densité, et un monde de matière subtile où les ésotéristes peuvent y croiser
-leurs interlocuteurs dématérialisés.
+principe divin) et d'autre part la sphère de mortalité, dualiste ou dialectique,
+où réside les hiérarchies spirituelles des grandes religions et les
+formes-pensées, les égrégores. Cette sphère de mortalité peut elle aussi se
+décomposer en un monde matériel de forte densité, et un monde de matière subtile
+où les ésotéristes peuvent y croiser leurs interlocuteurs dématérialisés.
 
 La gnose nous enseigne que nous avons en nous une parcelle divine. C'est ce
 qu'enseigne également le Bouddha lorsqu'il nous enseigne la libération, et on
@@ -34,23 +34,23 @@ conçue dans le monde de l'immortalité mais une fracture originelle lui a fait
 oublier sa véritable nature et l'a plongée dans la sphère de mortalité. Cette
 chute est décrite par le «péché originel» dans le jargon chrétien.
 
-Cette sphère de mort s'appelle ainsi car tout y est mortel et impermanent. Les
-êtres qui la composent naissent et meurent. Y compris les grands égrégores,
-formes-pensées ou archons naisse de part la ferveur et les prières accumulées,
-mais sont voués à disparaître à terme, même si leur durée de vie est bien plus
-longue que la nôtre.
+Cette sphère de mortalité s'appelle ainsi car tout y est mortel et impermanent.
+Les êtres qui la composent naissent et meurent. Y compris les grands égrégores,
+les éons, formes-pensées ou archons naissant de part la ferveur des prières
+accumulées, mais qui malgré tout sont voués à disparaître à terme. Bien que leur
+durée de vie soit bien plus longue que la nôtre.
 
 L'être humain que nous sommes est particulier. Il est composé d'une parcelle
 divine comme nous l'avons vu précédemment, mais également d'une personnalité
 mortelle issue du monde de la chute. Cette personnalité physique, cet égo, est
 né et va mourir. Étant issu du monde de la mort, c'est inévitable. Seule la
-partie divine qui est en nous peut survivre. Une fois la mort de l'être phisique
+partie divine qui est en nous peut survivre. Une fois la mort de l'être physique
 (matériel et subtil), tant que l'être divin ne s'est pas réveillé, un nouvel
-être mortel lui sera associé afin de pouvoir continuer à vivre dans ce monde
-dualiste.
+être mortel pourra lui être associé afin de pouvoir continuer à vivre dans ce
+monde dualiste.
 
 Ceci explique la conception gnostique de la transmigration des âmes, qui
-ressemble à la conception orientale de réincarnation.
+ressemble beaucoup à la conception orientale de réincarnation.
 
 La gnose, dans ce contexte, fournit un moyen, par la conaissance de toute cette
 sagesse, de se libérer de ce monde dualiste et de réveiller le moi divin en nous
@@ -61,7 +61,8 @@ amélioration progressive, une évolution spirituelle lente qui somme toute se m
 à oublier l'idée de libération pour se contenter d'une amélioration du monde qui
 nous emprisonne.
 
-C'est la dérive dans lequel est tombée le bouddhisme, à l'exception probable du
+C'est la dérive dans lequel sont tombées toutes les religions, y compris le
+bouddhisme qui a toujours prôné la grande libération. À l'exception probable du
 dzochen qui qui lui ne semble faire aucune concession.
 
 De fait, l'idée d'amélioration continue et d'évolution spirituelle qui repousse
@@ -69,7 +70,7 @@ toujours à une vie future la libération fait les choux gras de toutes les
 hiérarchies spirituelles qui vivent dans le monde subtil et se nourissent des
 prières des fidèles. Ce sont les égrégores. Issus au départ des premières
 prières des premiers humains, ils sont devenus autonomes et cherchent à
-reproduire la réalité dont ils sont issus. Ces formes pensées vont tout mettre
+reproduire la réalité dont ils sont issus. Ces formes-pensées vont tout mettre
 en œuvre afin de nous lier à ce monde dualiste, mais ils sont en réalité
 impuissants face à une réelle libération venant de l'être divin qui est en nous.
 
@@ -80,21 +81,22 @@ plus vivants que des ordinateurs. Ne possédant pas cette étiencelle divine, il
 sont forcés de nous mettre en esclavage afin qu'ils puissent continuer à
 exister.
 
-De ce fait, les conaissance gnostiques ont été souvent utilisées de travers. Ces
-conaissances apportant une conaissance du monde est utilisée par les
-spiritualistes de tout poil afin d'améliorer leur condition matérielle. Dialogue
-avec les esprits et pactes avec les égrégores, tout y passe. On est dans le pur
-*new-age* qui va même jusqu'à nier l'existance de cette étiencelle divine en
-nous, à juste titre car les gourous de cette nouvelle religion n'ont pas
-conaissance de cet être divin. C'est ce qu'on peut également appeler le
-matérialisme spirituel : utiliser les enseignements spirituels à des fins
-matérialistes et de confort mondain.
+De ce fait, et par la pression de ces égrégores, les conaissance gnostiques ont
+été souvent utilisées de travers. Ces conaissances apportant une conaissance du
+monde est utilisée par les spiritualistes de tout poil afin d'améliorer leur
+condition matérielle. Dialogue avec les esprits et pactes avec les «anges»,
+tout y passe. On est dans le pur *new-age* qui va même jusqu'à nier l'existance
+de cette étiencelle divine en nous, à juste titre car les gourous de cette
+nouvelle religion n'ont pas conaissance de cet être divin. C'est ce qu'on peut
+également appeler le matérialisme spirituel : utiliser les enseignements
+spirituels à des fins matérialistes et de confort mondain.
 
 Le chemin de la rose
 --------------------
 
 Nous employons ici un vocabulaire rose-croix que nous donne Jan Van Rijckenborgh
-dans son commentaire de Pistis Sophia. Il y décrit le chemin du gnostique ainsi :
+dans son commentaire de Pistis Sophia. Il y décrit le chemin du gnostique
+ainsi :
 
 > La *Pistis Sophia* symbolise le penseur qui, après avoir exploré de fond en
 > comble la nature dialectique, s'efforce de trouver la sagesse libératrice. La
@@ -175,7 +177,7 @@ fatal car un intérêt tout particulier est apporté à la libération au cours 
 vie présente sans compter sur les vies futures.
 
 Et une fois la libération accomplie, sans doute cela peut il se rapporcher du
-corps d'arc en ciel dont on parle en orient. On est loin d'un sucide tout de
+corps d'arc-en-ciel dont on parle en orient. On est loin d'un sucide tout de
 même.
 
 On peut également reprocher au gnostique un désintérêt pour le monde matériel de
