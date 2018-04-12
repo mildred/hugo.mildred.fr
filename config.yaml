@@ -4,3 +4,4 @@ languageCode: fr-fr
 title: Mildred Blog
 publishDir: publish
 theme: custom
+paginateAsc: true

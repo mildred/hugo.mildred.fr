@@ -17,6 +17,9 @@
     {{ if $paginator.HasPrev }}
     <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">←</a>
     {{ end }}
+    {{ range $index, $page := $paginator.Pagers }}
+    <a href="{{ $page.URL }}">{{ printf "%d" (add $index 1) }}</a>
+    {{ end }}
     {{ if $paginator.HasNext }}
     <a class="pagination-next" href="{{ $paginator.Next.URL }}">→</a>
     {{ end }}
