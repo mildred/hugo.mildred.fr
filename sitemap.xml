@@ -3,7 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hugo.mildred.fr/posts/my-first-post/</loc>
+    <loc>http://hugo.mildred.fr/articles/2018-04-12-introduction-a-la-gnose/</loc>
+    <lastmod>2018-04-12T21:17:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.mildred.fr/articles/</loc>
+    <lastmod>2018-04-12T21:17:31+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,11 +20,7 @@
   
   <url>
     <loc>http://hugo.mildred.fr/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hugo.mildred.fr/posts/</loc>
+    <lastmod>2018-04-12T21:17:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
